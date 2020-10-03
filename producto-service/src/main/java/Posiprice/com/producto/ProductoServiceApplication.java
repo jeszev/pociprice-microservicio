@@ -1,4 +1,4 @@
-package Posiprice.com.venta;
+package Posiprice.com.producto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
