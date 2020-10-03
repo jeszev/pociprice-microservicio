@@ -1,4 +1,4 @@
-package Posiprice.com.venta;
+package posiprice.com.registry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
